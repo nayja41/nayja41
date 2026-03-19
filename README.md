@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Nay!
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+</p>
 
-<!--
-**nayja41/nayja41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pelajar SMK yang tertarik di bidang IT  
+💻 Web Developer  
+🚀 Sedang fokus belajar dan mengembangkan skill  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Laravel Framework  
+- PHP Programming  
+- JavaScript  
+- CSS (Styling & Layout)  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-blue?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+
+</p>
+
+---
+
+## 📫 Contact Me
+
+- GitHub:https://github.com/nayja41  
+- LinkedIn:https://www.linkedin.com/in/nayja-raudatur-ramadhan-9b9087364 
+- Email:nayjaraudaturramadhan@gmail.com  
+  
