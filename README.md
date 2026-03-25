@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Nay!
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQzZ2l4eGtqc3k0dTBsa2dqeHZzNzZ4bzc5aXllc3dqaGNoMGx1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OS9R41QuUqjnwMcqYI/giphy.gif" width="300">
 </p>
 
 🎓 Pelajar SMK yang tertarik di bidang IT  
